@@ -337,6 +337,7 @@ fiesta:
     name: FAIR Image Analysis across Sciences
     url: https://oscars-project.eu/projects/fair-image-analysis-across-sciences
     avatar: "/training-material/shared/images/logos/logo-FIESTA.png"
+    github: "https://github.com/FAIR-imaging/OSCARS-FIESTA"
 
 find:
     short_name: FIND
